@@ -11,7 +11,7 @@ BASE_DIR = Path(__file__).resolve().parent
 
 st.title("Proyectos y Ejercicios Prácticos")
 st.write(
-    "A continuación encontrarás las aplicaciones de Machine Learning, Ciencia de Datos e Inteligencia Artificial desarrolladas en Streamlit:"
+    "Portafolio guiado:"
 )
 
 st.divider()
